@@ -118,12 +118,6 @@ Let me know if you need any more modifications! 🚀
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedhaidershah072&theme=dracula"/>
 </div>
 
----
-
-### 😂 Random Dev Meme
-<div align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
 
 ---
 
@@ -133,10 +127,3 @@ Let me know if you need any more modifications! 🚀
 </div>
 
 ---
-
-<!-- Profile Views -->
-<div align="center" style="margin-top: 40px;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=syedhaidershah072&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
-  </a>
-</div>
