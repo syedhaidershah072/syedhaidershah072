@@ -18,11 +18,18 @@ AI-driven automation
 
 ---
 
-<!-- GitHub Trophies -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedhaidershah072&theme=radical&no-frame=true&margin-w=15&row=2&column=3" alt="syedhaidershah072" /></a> 
-</p>
-
+<h1> Languages <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+<table>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <br><h4>Python</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://isocpp.org/" target="_blank"><img alt="C++" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c++.svg" /></a>
+        <br><h4>C++</h4>
+    </td>
+</table>
 ---
 
 ## 🔭 What I'm Currently Working On
