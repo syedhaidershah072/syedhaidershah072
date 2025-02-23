@@ -3,7 +3,7 @@
 ---
 
 ## 💫 About Me
-I am a 7th-semester BS Artificial Intelligence student with a strong passion for Computer Vision and Deep Learning. I specialize in building intelligent vision systems for image processing, object detection, and facial recognition.
+I am a BS Artificial Intelligence student with a strong passion for Computer Vision and Deep Learning. I specialize in building intelligent vision systems for image processing, object detection, and facial recognition.
 
 🔹 Key Interests & Skills:
 
